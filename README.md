@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tusharisunique.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning agentic AI.
 - 📫 You can reach me on Linkedin <www.linkedin.com/in/tusharisunique>.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I can swim faster than u.
