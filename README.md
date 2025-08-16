@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tusharisunique.
-- 👀 I’m interested in Coding.
+- 👀 I’m interested in your computer.
 - 🌱 I’m currently learning agentic AI.
 - 📫 You can reach me on Linkedin <www.linkedin.com/in/tusharisunique>.
 - 😄 Pronouns: He/him.
