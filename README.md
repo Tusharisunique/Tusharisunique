@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am Tushar Joshi, a Software Developer, who loves to solve problems.</p>
+<p align="left">I am Tushar Joshi, a software developer, who loves to solve problems.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- I’m interested in Networking and System Design Concepts.<br>- I’m currently learning NLP.<br><br>- Pronouns: He/him.<br>- Fun fact: I can swim faster than u.</p>
+<p align="left">- I’m interested in Networking Concepts and System Design.<br>- I’m currently learning NLP.<br><br>- Pronouns: He/him.<br>- Fun fact: I can swim faster than u.</p>
 
 ###
 
@@ -58,12 +58,6 @@
   <a href="https://www.linkedin.com/in/tusharisunique/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
 </div>
 
 ###
