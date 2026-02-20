@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am Tushar Joshi, a software developer, who loves to solve problems.</p>
+<p align="left">I am Tushar Joshi, a Software Developer, who loves to solve problems.</p>
 
 ###
 
