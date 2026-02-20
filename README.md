@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am Tushar Joshi, a software developer, who loves to solve problems.</p>
+<p align="left">I am Tushar Joshi, a Software Developer, who loves to solve problems.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- I’m interested in Networking Concepts and System Design.<br>- I’m currently learning NLP.<br><br>- Pronouns: He/him.<br>- Fun fact: I can swim faster than u.</p>
+<p align="left">- I’m interested in Networking and System Design Concepts.<br>- I’m currently learning NLP.<br><br>- Pronouns: He/him.<br>- Fun fact: I can swim faster than u.</p>
 
 ###
 
